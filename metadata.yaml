@@ -1,0 +1,29 @@
+_repo: The-Tongues-of-Toil-And-Other-Poems_13322
+_version: 0.1.0
+alternative_title: Selected Poems
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barnard, William Francis
+    gutenberg_agent_id: '4995'
+    url: http://www.gutenberg.org/2009/agents/4995
+description: ''
+gutenberg_issued: '2004-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labor -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Working class -- Poetry'
+tableOfContents: The tongues of toil -- The hangman -- The children of the looms --
+  The hymn of labor -- To the masters -- To the enemies of free speech -- Magdalene
+  passes -- The red flag -- The agitator.
+title: The Tongues of Toil And Other Poems
+url: http://www.gutenberg.org/ebooks/13322
